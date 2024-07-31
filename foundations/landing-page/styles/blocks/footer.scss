@@ -1,0 +1,17 @@
+.footer {
+    width: 100%;
+    background-color: var(--dark-background-color);
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-container {
+    max-width: 1920px;
+
+    p {
+        color: #fff;
+        font-size: var(--secondary-font-size);
+        font-weight: 300;
+    }
+}

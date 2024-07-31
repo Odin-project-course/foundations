@@ -1,0 +1,20 @@
+.quote {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: var(--link-color);
+    padding: 80px 0px;
+}
+
+.quote-container {
+    max-width: 1000px;
+    
+    em {
+        font-size: var(--quote-font-size);
+    }
+
+    .quote-author {
+        display: flex;
+        justify-content: flex-end;
+    }
+}
