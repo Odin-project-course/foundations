@@ -1,0 +1,12 @@
+# SCSS cache and compiled CSS
+*.css
+*.css.map
+
+build/
+
+# Sass cache
+.sass-cache/
+.sass-cache/*
+
+# IDE and editor files
+.vscode/

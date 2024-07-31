@@ -1,0 +1,34 @@
+.header {
+    background-color: var(--dark-background-color);
+    width: 100%;   
+    display: flex;
+    justify-content: center;
+
+    .header-container {
+        padding: 10px 5px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1920px;
+        width: 100%;
+        margin-bottom: 75px;
+    }
+
+    .header__logo {
+        color: var(--main-text-color);
+        font-size: var(--main-font-size);
+        font-weight: 700;
+    }
+}
+
+.nav__list {
+    display: flex;
+    gap: 20px;
+
+    .nav__link {
+        text-decoration: none;
+        color: var(--link-color);
+        font-size: var(--secondary-font-size);
+        cursor: pointer;
+    }
+}
