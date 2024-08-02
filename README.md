@@ -1,3 +1,3 @@
-#Projects included:
-* Landing page (scss)
-* Rock paper scissors game (OOP / typescript)
+# Projects included:
+* Landing page (`scss`)
+* Rock paper scissors game (`OOP / typescript`)
